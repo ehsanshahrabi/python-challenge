@@ -19,10 +19,15 @@ The script outputs the analysis to both the terminal and a text file, analysis.t
 Financial Analysis
 ----------------------------
 Total Months: 86
+
 Total: $22564198
+
 Average Change: $-8311.11
+
 Greatest Increase in Profits: Aug-16 ($1862002)
+
 Greatest Decrease in Profits: Feb-14 ($-1825558)
+
 
 ### PyPoll
 PyPoll is a Python script that analyzes voting data for an election, and calculates each of the following:
@@ -37,12 +42,21 @@ The script takes as input a CSV file called election_data.csv, which is located 
 The script outputs the analysis to both the terminal and a text file, election_results.txt, which is located in the root directory.
 
 Election Results
+
 -------------------------
+
 Total Votes: 369711
+
 -------------------------
+
 Charles Casper Stockham: 23.049% (85213)
+
 Diana DeGette: 73.812% (272892)
+
 Raymon Anthony Doane: 3.139% (11606)
+
 -------------------------
+
 Winner: Diana DeGette
+
 -------------------------
