@@ -15,6 +15,7 @@ The greatest decrease in losses (date and amount) over the entire period.
 The script takes as input a CSV file called budget_data.csv, which is located in the "Resources" directory. The CSV file should contain two columns: "Date" and "Profit/Losses".
 
 The script outputs the analysis to both the terminal and a text file, analysis.txt, which is located in the root directory.
+
 Financial Analysis
 ----------------------------
 Total Months: 86
@@ -34,6 +35,7 @@ The winner of the election based on popular vote.
 The script takes as input a CSV file called election_data.csv, which is located in the "Resources" directory. The CSV file should contain three columns: "Ballot ID", "County", and "Candidate".
 
 The script outputs the analysis to both the terminal and a text file, election_results.txt, which is located in the root directory.
+
 Election Results
 -------------------------
 Total Votes: 369711
